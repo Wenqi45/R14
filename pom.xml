@@ -8,6 +8,10 @@
   		<id>R14JavaLibrary-release</id>
   		<url>file://${project.build.directory}/staging/</url>
   	</snapshotRepository>
+        <repository>
+  		<id>R14JavaLibrary-release</id>
+  		<url>file://${project.build.directory}/release/</url>
+  	</repository>
   </distributionManagement>
   <dependencies>
 	  <dependency>
