@@ -13,6 +13,7 @@
   		<url>file://${project.build.directory}/release/</url>
   	</repository>
   </distributionManagement>
+  <scm></scm>
   <dependencies>
 	  <dependency>
 	    <groupId>commons-io</groupId>
